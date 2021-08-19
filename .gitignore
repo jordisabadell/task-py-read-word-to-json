@@ -131,4 +131,5 @@ dmypy.json
 /Lib
 /Scripts
 document.docx
+~$cument.docx
 pyvenv.cfg
